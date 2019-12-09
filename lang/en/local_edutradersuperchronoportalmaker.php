@@ -21,6 +21,5 @@
  * @license   http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-$string['itemtitle'] = 'Super Chrono Portal Maker';
 $string['pluginname'] = 'eduTrader - Super Chrono Portal Maker';
 $string['privacy:metadata'] = 'Not storing personal information';

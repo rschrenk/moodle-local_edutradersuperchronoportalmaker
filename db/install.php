@@ -29,6 +29,7 @@ function xmldb_local_edutradersuperchronoportalmaker_install(){
         'duration' => 600,
         'itemid' => 'superchronoportalmaker',
         'price' => 100,
+        'title' => 'Super Chrono Portal Maker',
         'type' => 'smartness',
     );
     $DB->insert_record('block_edutrader_items', $obj, true);

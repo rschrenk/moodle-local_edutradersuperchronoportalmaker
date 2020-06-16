@@ -15,7 +15,7 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * @package    local_edutrader_1024-moves
+ * @package    local_edutradersuperchronoportalmaker
  * @copyright  2019 Zentrum für Lernmanagement (www.lernmanagement.at)
  * @author     Robert Schrenk
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
@@ -23,7 +23,7 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-function xmldb_local_edutradersuperchronoportalmaker_install(){
+function xmldb_local_edutradersuperchronoportalmaker_install() {
     global $DB;
     $obj = (object) array(
         'duration' => 600,

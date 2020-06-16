@@ -15,14 +15,14 @@
 // along with Moodle.  If not, see <http://www.gnu.org/licenses/>.
 
 /**
- * @package    local_edutrader_1024-moves
+ * @package    local_edutradersuperchronoportalmaker
  * @copyright  2020 Center for Learning Management (http://www.lernmanagement.at)
  * @author     Robert Schrenk
  * @license    http://www.gnu.org/copyleft/gpl.html GNU GPL v3 or later
  */
 
-namespace local_edutrader_1024moves\privacy;
-use core_privacy\local\metadata\collection;
+namespace local_edutradersuperchronoportalmaker\privacy;
+use \core_privacy\local\metadata\collection;
 
 defined('MOODLE_INTERNAL') || die;
 

@@ -23,11 +23,11 @@
 
 defined('MOODLE_INTERNAL') || die;
 
-$plugin->version  = 2019120400;
+$plugin->version  = 2020061600;
 $plugin->requires = 2014051200;
 $plugin->component = 'local_edutradersuperchronoportalmaker';
-$plugin->release = '1.0 (Build: 2019120400)';
+$plugin->release = '1.0 (Build: 2020061600)';
 $plugin->maturity = MATURITY_STABLE;
 $plugin->dependencies = array(
-    'block_edutrader' => 2019120400,
+    'block_edutrader' => 2020061600,
 );
